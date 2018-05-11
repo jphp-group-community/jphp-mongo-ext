@@ -1,0 +1,10 @@
+
+name: jphp-mongo-ext
+version: 1.0.1
+description: Library for working with MongoDB.
+
+plugins: [Doc, Hub, Gradle]
+
+doc:
+  url-prefix: 'https://github.com/jphp-compiler/jphp/blob/master/api-docs/'
+  langs: {en: English, ru: Русский}
